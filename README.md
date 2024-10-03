@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/mnt/data/A_Netflix_logo_in_high_quality,_featuring_the_icon.png" alt="Netflix Logo" width="200">
+  <img src="https://i.imgur.com/cAXJwEN.png" alt="Netflix Logo" width="200">
 </p>
 
 # **Netflix Business Case Study**
